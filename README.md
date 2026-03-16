@@ -4,7 +4,7 @@
 
 Welcome to the core research and performance ledger for the **System Fund** trading engine. This repository serves as a transparent audit trail documenting a 5-year quantitative backtest (2021–2026).
 
-## 📊 The "Power Stats" (5-Year Aggregate)
+## 📊 Stats (5-Year Aggregate)
 
 | Metric | Result | Context |
 | :--- | :--- | :--- |
