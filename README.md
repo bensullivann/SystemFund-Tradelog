@@ -13,7 +13,7 @@ Welcome to the core research and performance ledger for the **System Fund** trad
 | **Max Drawdown** | **10.00%** | Hard capped mathematical ceiling |
 | **Monthly Win Rate** | **80.00%** | 8 out of 10 months closed in profit |
 
-![Performance Chart](unnamed%20(1).png)
+![Performance Chart](asset/unnamed%20(1).png)
 
 ## The Architecture
 The portfolio utilizes a **Decoupled Risk Blueprint**, isolating high-leverage BTC Long events from high-frequency Altcoin Short signals to ensure geometric compounding even during market drawdowns.
