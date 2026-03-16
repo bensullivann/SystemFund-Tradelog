@@ -15,10 +15,10 @@ Welcome to the core research and performance ledger for the **System Fund** trad
 
 ![Performance Chart](unnamed%20(1).png)
 
-## ⚙️ The Architecture
+## The Architecture
 The portfolio utilizes a **Decoupled Risk Blueprint**, isolating high-leverage BTC Long events from high-frequency Altcoin Short signals to ensure geometric compounding even during market drawdowns.
 
-## 🗂️ Repository Structure
+## Repository Structure
 * `/data/` - Raw CSV trade exports
 * `analysis.ipynb` - Python engine for risk optimization
 * `Systemizing_Chaos_5_Year_Track_Record.csv` - Full trade-by-trade ledger
