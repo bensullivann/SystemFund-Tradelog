@@ -1,4 +1,4 @@
-# Systemizing Chaos: 5-Year Algorithmic Track Record
+# 5-Year Algorithmic Track Record
 
 > **Multiply your wealth, Systemize Chaos.**
 
