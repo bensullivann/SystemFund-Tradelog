@@ -2,7 +2,7 @@
 
 > **Multiply your wealth, Systemize Chaos.**
 
-Welcome to the core research and performance ledger for the **Systemizing Fund** trading engine. This repository serves as a transparent audit trail documenting a 5-year quantitative backtest (2021–2026).
+Welcome to the core research and performance ledger for the **System Fund** trading engine. This repository serves as a transparent audit trail documenting a 5-year quantitative backtest (2021–2026).
 
 ## 📊 The "Power Stats" (5-Year Aggregate)
 
