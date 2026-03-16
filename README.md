@@ -1,4 +1,4 @@
-# 5-Year Algorithmic Track Record
+# System Fund: 5-Year Algorithmic Track Record
 
 > **Multiply your wealth, Systemize Chaos.**
 
@@ -21,4 +21,10 @@ The portfolio utilizes a **Decoupled Risk Blueprint**, isolating high-leverage B
 ## Repository Structure
 * `/data/` - Raw CSV trade exports
 * `analysis.ipynb` - Python engine for risk optimization
-* `Systemizing_Chaos_5_Year_Track_Record.csv` - Full trade-by-trade ledger
+* `SystemFund_5_Year_Track_Record.csv` - Full trade-by-trade ledger
+
+## How to Verify the Data
+We operate on a standard of absolute transparency. You can clone this repository and run the mathematical audit yourself.
+
+```bash
+git clone [https://github.com/bensullivann/SystemFund-Tradelog.git](https://github.com/bensullivann/SystemFund-Tradelog.git)
