@@ -19,10 +19,12 @@ Welcome to the core research and performance ledger for the **System Fund** trad
 The portfolio utilizes a **Decoupled Risk Blueprint**, isolating high-leverage BTC Long events from high-frequency Altcoin Short signals to ensure geometric compounding even during market drawdowns.
 
 ## Repository Structure
-* `/data/` - Raw CSV trade exports
-* `analysis.ipynb` - Python engine for risk optimization
-* `SystemFund_5_Year_Track_Record.csv` - Full trade-by-trade ledger
 
+* **[/assets/](https://github.com/bensullivann/SystemFund-Tradelog/tree/main/assets)** - Project media, branding, and visual documentation.
+* **[/data/](https://github.com/bensullivann/SystemFund-Tradelog/tree/main/data)** - Core directory for trade data and algorithmic processing.
+    * `analysis.ipynb` - The Python Quant Engine used for risk optimization and backtesting.
+    * `Systemizing_Chaos_5_Year_Track_Record.csv` - The raw, trade-by-trade ledger (2,600+ trades).
+* `README.md` - Project documentation, system philosophy, and performance audit.
 ## How to Verify the Data
 We operate on a standard of absolute transparency. You can clone this repository and run the mathematical audit yourself.
 
